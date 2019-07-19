@@ -1,0 +1,23 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="home"
+        app:showAsAction="never" />
+    <item android:id="@+id/rss"
+        android:icon="@drawable/ic_rss"
+        android:title="FEEDS"
+        app:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:title="Gallery"
+        app:showAsAction="never" />
+    <item android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_feeds_fan"
+        android:title="FANS"
+        app:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/videos"
+        android:icon="@drawable/ic_feeds_fan"
+        android:title="FANS"
+        app:showAsAction="ifRoom|withText" />
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "330352291071",
+    "firebase_url": "https://swagqueen-cddea.firebaseio.com",
+    "project_id": "swagqueen-cddea",
+    "storage_bucket": "swagqueen-cddea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330352291071:android:76a2f3f232713575",
+        "android_client_info": {
+          "package_name": "com.swagqueen.lulloo.swagqueen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330352291071-7lv0i2e6aqjvln68340g2lv5cirva5u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swagqueen.lulloo.swagqueen",
+            "certificate_hash": "ec9dee198dcbb51f0adf66d72ab5a149d1339b75"
+          }
+        },
+        {
+          "client_id": "330352291071-rmajc06jbtk92rid0c4kfu00jtrq3vch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPxlzboxla-dLykER0pkn59i-ij68-MQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330352291071-rmajc06jbtk92rid0c4kfu00jtrq3vch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

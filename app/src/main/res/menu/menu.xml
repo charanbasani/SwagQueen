@@ -1,0 +1,11 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_back"
+        android:icon="@drawable/ic_grain_black_24dp"
+        android:title="main"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_setwallpaper"
+        android:icon="@drawable/ic_image_black_24dp"
+        android:title="set as wallpaper"
+        app:showAsAction="ifRoom|withText" />
+</menu>

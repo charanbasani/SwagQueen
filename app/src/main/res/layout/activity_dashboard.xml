@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dashboard"
+    >
+
+<com.swagqueen.lulloo.swagqueen.ui.ExoPlayerRecyclerView
+    android:layout_width="match_parent"
+    android:background="#dedede"
+    android:dividerHeight="8dp"
+    android:id="@+id/exoPlayerRecyclerView"
+    android:layout_height="match_parent">
+
+</com.swagqueen.lulloo.swagqueen.ui.ExoPlayerRecyclerView>
+
+</android.support.constraint.ConstraintLayout>

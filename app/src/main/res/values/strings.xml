@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FaNsPage</string>
+    <string name="home">HOME</string>
+    <string name="title_gifts">FEEDS</string>
+    <string name="ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_id1_banner">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="ad_unit_id1_banner1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_app_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_id2_banner1">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_unit_id2_banner2">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
