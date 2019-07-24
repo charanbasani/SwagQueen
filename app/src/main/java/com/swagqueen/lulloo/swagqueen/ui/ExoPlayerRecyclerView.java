@@ -346,6 +346,8 @@ fullscreen.setOnClickListener(new OnClickListener() {
     Toast.makeText(context, "clicked", Toast.LENGTH_SHORT).show();
   }
 });
+
+//video url
 //    DataSource.Factory dataSourceFactory = new DefaultDataSourceFactory(
 //        context, Util.getUserAgent(context, AppName));
 //    String mediaUrl = mediaObjects.get(targetPosition).getUrl();
@@ -356,12 +358,12 @@ fullscreen.setOnClickListener(new OnClickListener() {
 //      videoPlayer.setPlayWhenReady(true);
 //    }
 
-//youtub video
+//youtub video url
       @SuppressLint("StaticFieldLeak") YouTubeExtractor mExtractor = new YouTubeExtractor(context) {
           @Override
           protected void onExtractionComplete(SparseArray<YtFile> sparseArray, VideoMeta videoMeta) {
               if (sparseArray != null) {
-                  playVideo1(sparseArray.get(18).getUrl());
+                  playVideo1(sparseArray.get(137).getUrl());
 
               }
           }

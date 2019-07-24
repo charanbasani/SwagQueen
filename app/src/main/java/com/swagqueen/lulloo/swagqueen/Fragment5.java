@@ -102,7 +102,7 @@ public class Fragment5 extends Fragment {
                 "Do you think the concept of marriage will no longer exist in the future?");
         mediaObject.setCoverUrl(
                 "https://androidwave.com/media/images/exo-player-in-recyclerview-in-android-1.png");
-        mediaObject.setUrl("https://www.youtube.com/watch?v=SYCCFA22CqM");
+        mediaObject.setUrl("https://www.youtube.com/watch?v=ImsXeHe9NV4&feature=youtu.be");
 
         MediaObject mediaObject2 = new MediaObject();
         mediaObject2.setId(2);
@@ -111,7 +111,7 @@ public class Fragment5 extends Fragment {
                 "If my future husband doesn't cook food as good as my mother should I scold him?");
         mediaObject2.setCoverUrl(
                 "https://androidwave.com/media/images/exo-player-in-recyclerview-in-android-2.png");
-        mediaObject2.setUrl("https://www.youtube.com/watch?v=SYCCFA22CqM");
+        mediaObject2.setUrl("https://www.youtube.com/watch?v=ImsXeHe9NV4&feature=youtu.be");
 
         MediaObject mediaObject3 = new MediaObject();
         mediaObject3.setId(3);
