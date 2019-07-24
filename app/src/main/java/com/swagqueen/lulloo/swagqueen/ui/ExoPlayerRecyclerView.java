@@ -359,6 +359,7 @@ fullscreen.setOnClickListener(new OnClickListener() {
 //    }
 
 //youtub video url
+    //22-360,18-480,137-1080 px
       @SuppressLint("StaticFieldLeak") YouTubeExtractor mExtractor = new YouTubeExtractor(context) {
           @Override
           protected void onExtractionComplete(SparseArray<YtFile> sparseArray, VideoMeta videoMeta) {
